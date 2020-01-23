@@ -1,0 +1,6 @@
+Przelew przychodzacy
+2020.01.21 22:20:50
+Nadawca: a
+Numer konta nadawcy: 1
+Kwota: 150
+Stan konta po przelewie: 150

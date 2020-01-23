@@ -1,0 +1,13 @@
+Przelew przychodzacy
+2020.01.21 22:19:24
+Nadawca: admin
+Numer konta nadawcy: *ADMIN*
+Kwota: 159
+Stan konta po przelewie: 159
+
+Przelew wychodzacy
+2020.01.21 22:20:50
+Odbiorca: xd
+Numer konta odbiorcy: xd
+Kwota: 150
+Stan konta po przelewie: 9
